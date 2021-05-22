@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.exe
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.dll
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\bin\Debug\netcoreapp3.1\ConsoleProgramlama.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.dll
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleProgramlama\obj\Debug\netcoreapp3.1\ConsoleProgramlama.genruntimeconfig.cache
