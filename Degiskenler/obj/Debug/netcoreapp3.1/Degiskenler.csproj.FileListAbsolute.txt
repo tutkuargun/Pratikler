@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.exe
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.genruntimeconfig.cache
