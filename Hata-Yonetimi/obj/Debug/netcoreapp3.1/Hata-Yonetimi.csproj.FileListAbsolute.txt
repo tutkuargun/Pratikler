@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.exe
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.dll
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.dll
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.genruntimeconfig.cache
