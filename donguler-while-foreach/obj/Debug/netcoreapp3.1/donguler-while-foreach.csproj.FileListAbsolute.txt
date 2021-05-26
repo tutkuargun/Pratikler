@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.exe
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.dll
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\bin\Debug\netcoreapp3.1\donguler-while-foreach.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.dll
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\donguler-while-foreach\obj\Debug\netcoreapp3.1\donguler-while-foreach.genruntimeconfig.cache
