@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "donguler-for-loop/1.0.0": {
+        "runtime": {
+          "donguler-for-loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "donguler-for-loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
