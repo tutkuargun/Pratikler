@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.exe
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.dll
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\bin\Debug\netcoreapp3.1\If-else-if.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.dll
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\If-else-if\obj\Debug\netcoreapp3.1\If-else-if.genruntimeconfig.cache
