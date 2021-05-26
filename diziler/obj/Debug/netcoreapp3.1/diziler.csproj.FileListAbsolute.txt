@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.exe
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.dll
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\bin\Debug\netcoreapp3.1\diziler.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.dll
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\diziler\obj\Debug\netcoreapp3.1\diziler.genruntimeconfig.cache
