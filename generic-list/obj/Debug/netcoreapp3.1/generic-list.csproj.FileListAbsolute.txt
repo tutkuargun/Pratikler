@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.exe
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.dll
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\bin\Debug\netcoreapp3.1\generic-list.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.dll
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\generic-list\obj\Debug\netcoreapp3.1\generic-list.genruntimeconfig.cache
