@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.exe
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\bin\Debug\netcoreapp3.1\string-metotlar.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\string-metotlar\obj\Debug\netcoreapp3.1\string-metotlar.genruntimeconfig.cache
