@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.exe
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\bin\Debug\netcoreapp3.1\arraylist.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\arraylist\obj\Debug\netcoreapp3.1\arraylist.genruntimeconfig.cache
