@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.exe
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.dll
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\bin\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.csprojAssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.dll
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\DatetimeVeMathSiniflari\obj\Debug\netcoreapp3.1\DatetimeVeMathSiniflari.genruntimeconfig.cache
