@@ -1,0 +1,16 @@
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.exe
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.dll
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\ref\sinif_kavrami.dll
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.dll
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\ref\sinif_kavrami.dll
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.genruntimeconfig.cache
