@@ -1,0 +1,16 @@
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.exe
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\ref\static_siniflar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\bin\Debug\net5.0\static_siniflar.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\ref\static_siniflar.dll
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\static_siniflar\obj\Debug\net5.0\static_siniflar.genruntimeconfig.cache
