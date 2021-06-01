@@ -1,0 +1,16 @@
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.exe
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.dll
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\ref\enum.dll
+C:\Users\Tutku\Desktop\Pratikler C#\enum\bin\Debug\net5.0\enum.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.dll
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\ref\enum.dll
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\enum\obj\Debug\net5.0\enum.genruntimeconfig.cache
