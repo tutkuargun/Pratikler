@@ -1,0 +1,16 @@
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.exe
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\ref\arayüzler-örnek.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\bin\Debug\net5.0\arayüzler-örnek.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\ref\arayüzler-örnek.dll
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\arayüzler-örnek\obj\Debug\net5.0\arayüzler-örnek.genruntimeconfig.cache
