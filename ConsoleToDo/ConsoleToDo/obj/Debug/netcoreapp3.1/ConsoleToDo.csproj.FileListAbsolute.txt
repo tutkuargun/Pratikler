@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.exe
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.dll
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\bin\Debug\netcoreapp3.1\ConsoleToDo.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.dll
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\ConsoleToDo\ConsoleToDo\obj\Debug\netcoreapp3.1\ConsoleToDo.genruntimeconfig.cache
