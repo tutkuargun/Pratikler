@@ -1,0 +1,13 @@
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.exe
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.deps.json
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.runtimeconfig.json
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.runtimeconfig.dev.json
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.dll
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.dll
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.pdb
+C:\Users\Tutku\Desktop\Pratikler C#\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.genruntimeconfig.cache
